@@ -1,38 +1,32 @@
 ---
-title: Hello World
+title: 欢迎来到我的数字世界
+date: 2025-06-12 20:00:00
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+你好，我是LIU。
 
-### Create a new post
+这是我用 Hexo 搭建的个人博客，也是我在数字世界的小小据点。
 
-``` bash
-$ hexo new "My New Post"
-```
+这里将分享我的想法、技术笔记和生活点滴。
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+希望你在这里找到共鸣，留下你的足迹。
 
-### Run server
+未来的路上，有你相伴，真好！😊
 
-``` bash
-$ hexo server
-```
+---
 
-More info: [Server](https://hexo.io/docs/server.html)
+## 说点什么？
 
-### Generate static files
+- 技术分享，慢慢积累
+- 生活感悟，随心所写
+- 数字时代，我们一起探索
 
-``` bash
-$ hexo generate
-```
+---
 
-More info: [Generating](https://hexo.io/docs/generating.html)
+如果你也喜欢这里，别忘了关注我，咱们一起成长！
 
-### Deploy to remote sites
+欢迎留言交流，我很期待认识你。
 
-``` bash
-$ hexo deploy
-```
+---
 
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+感谢你的到来，愿你每天都有新发现。🚀
