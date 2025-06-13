@@ -1,14 +1,14 @@
-# Hexo Configuration
-## Docs: https://hexo.io/docs/configuration.html
-## Source: https://github.com/hexojs/hexo/
+# LIU的博客配置文件
+# 不要随便动 theme，不然网站可能又白屏了😤
+# 如果要切换主题，先复制一份项目防止炸掉
 
 # Site
 title: 借忧杂货铺
-subtitle: ''
+subtitle: 'HarmonyOS NEXT'
 description: ''
 keywords:
-author: John Doe
-language: en
+author: 借忧杂货铺
+language: zh
 timezone: ''
 
 # URL
