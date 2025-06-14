@@ -65,7 +65,7 @@ disable_top_img: false
 default_top_img:
 
 # The banner image of index page
-index_img: "/img/index-banner.jpg"  # 首页背景
+index_img: "https://cdn.jsdelivr.net/gh/3106646664/Hexo-Images@main/index-banner.jpg"  # 首页背景
 
 
 # The banner image of archive page
@@ -92,7 +92,7 @@ footer_img: false
 
 # Website Background
 # Can set it to color or image url
-background: "/img/background.jpg"
+background: "https://cdn.jsdelivr.net/gh/3106646664/Hexo-Images@main/background.jpg"
 
 cover:
   # Disable the cover or not
