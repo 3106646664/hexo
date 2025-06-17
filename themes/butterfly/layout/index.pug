@@ -1,0 +1,9 @@
+extends includes/layout.pug
+
+block content
+  include ./includes/mixins/indexPostUI.pug
+  +indexPostUI
+
+  // 👉 主页留言挂载区域，缩进必须正确！
+  if page.path === 'index.html'
+    div#vcomment
