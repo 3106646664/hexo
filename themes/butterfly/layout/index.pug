@@ -4,6 +4,6 @@ block content
   include ./includes/mixins/indexPostUI.pug
   +indexPostUI
 
-  // 👉 主页留言挂载区域，缩进必须正确！
+  // 👉 主页留言挂载区域，仅主页时显示
   if page.path === 'index.html'
     div#vcomment

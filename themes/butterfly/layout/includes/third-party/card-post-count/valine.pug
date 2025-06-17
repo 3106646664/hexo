@@ -3,7 +3,7 @@ script.
     function loadValine () {
       function initValine () {
         let path = window.location.pathname
-        if (path === '/') path = '/home-comment'
+        if (path === '/') path = '/home-comment'  // ✅ 设置主页留言路径，避免 LeanCloud timeout
 
         let initData = {
           el: '#vcomment',
@@ -16,7 +16,7 @@ script.
         const valine = new Valine(initData)
       }
 
-      if (typeof Valine === 'function') initValine() 
+      if (typeof Valine === 'function') initValine()
       else btf.getScript('!{url_for(theme.asset.valine)}').then(initValine)
     }
 
