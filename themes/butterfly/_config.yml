@@ -55,7 +55,7 @@ social:
 favicon: /img/favicon.png
 
 avatar:
-  img: /img/butterfly-icon.png
+  img: "https://cdn.jsdelivr.net/gh/3106646664/Hexo-Images@main/butterfly-icon.jpg"  # 头像
   effect: false
 
 # Disable all banner images
